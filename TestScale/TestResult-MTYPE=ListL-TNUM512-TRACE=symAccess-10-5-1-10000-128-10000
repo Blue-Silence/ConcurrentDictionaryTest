@@ -1,0 +1,10 @@
+Total-ops: 5120000 Total-ms: 1241127 Ops-per-ms: 4.12528 Shortest-exec-ms: 215 Longest-exec-ms: 3344 Overall-ops-per-ms: 1531.1
+Total-ops: 5120000 Total-ms: 1126034 Ops-per-ms: 4.54693 Shortest-exec-ms: 20 Longest-exec-ms: 3117 Overall-ops-per-ms: 1642.61
+Total-ops: 5120000 Total-ms: 848627 Ops-per-ms: 6.03327 Shortest-exec-ms: 19 Longest-exec-ms: 2698 Overall-ops-per-ms: 1897.7
+Total-ops: 5120000 Total-ms: 852777 Ops-per-ms: 6.00391 Shortest-exec-ms: 16 Longest-exec-ms: 2404 Overall-ops-per-ms: 2129.78
+Total-ops: 5120000 Total-ms: 1793298 Ops-per-ms: 2.85507 Shortest-exec-ms: 19 Longest-exec-ms: 4521 Overall-ops-per-ms: 1132.49
+Total-ops: 5120000 Total-ms: 909776 Ops-per-ms: 5.62776 Shortest-exec-ms: 40 Longest-exec-ms: 2579 Overall-ops-per-ms: 1985.27
+Total-ops: 5120000 Total-ms: 868524 Ops-per-ms: 5.89506 Shortest-exec-ms: 45 Longest-exec-ms: 2453 Overall-ops-per-ms: 2087.24
+Total-ops: 5120000 Total-ms: 1366430 Ops-per-ms: 3.74699 Shortest-exec-ms: 15 Longest-exec-ms: 3307 Overall-ops-per-ms: 1548.23
+Total-ops: 5120000 Total-ms: 1161153 Ops-per-ms: 4.40941 Shortest-exec-ms: 20 Longest-exec-ms: 3177 Overall-ops-per-ms: 1611.58
+Total-ops: 5120000 Total-ms: 805146 Ops-per-ms: 6.3591 Shortest-exec-ms: 64 Longest-exec-ms: 2540 Overall-ops-per-ms: 2015.75
