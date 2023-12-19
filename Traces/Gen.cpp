@@ -12,6 +12,8 @@
 #include <map>
 #include <set>
 
+#include <filesystem>
+
 using std::map;
 using std::set;
 using std::string;
@@ -100,5 +102,5 @@ void symAccess(unsigned readR, unsigned writeR, unsigned delR, size_t opPerThrea
 
 
 int main() {
-    symAccess(10, 10, 0, 10000, 128, 10000);
+    symAccess(1, 1, 1, 10000, 128, 10000);
 }
