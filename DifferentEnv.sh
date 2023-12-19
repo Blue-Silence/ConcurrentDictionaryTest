@@ -6,7 +6,7 @@ mkdir TestUnderDifferentEnv
 cp a.out TestUnderDifferentEnv/
 cd TestUnderDifferentEnv
 
-for i in {1..5}; do
+for i in {1..10}; do
     echo R$i
     for trace in $(ls ../Traces | grep -E "^sym*"); do
         ./a.out RBM 128 ../Traces/$trace
